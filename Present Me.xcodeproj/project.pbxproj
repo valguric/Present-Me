@@ -15,6 +15,7 @@
 		7141B3562AD2D85200D70201 /* Present_MeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7141B3552AD2D85200D70201 /* Present_MeTests.swift */; };
 		7141B3602AD2D85200D70201 /* Present_MeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7141B35F2AD2D85200D70201 /* Present_MeUITests.swift */; };
 		7141B3622AD2D85200D70201 /* Present_MeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7141B3612AD2D85200D70201 /* Present_MeUITestsLaunchTests.swift */; };
+		EC80B7132AD2F9D200BC6656 /* Nouf.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC80B7122AD2F9D200BC6656 /* Nouf.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		7141B35B2AD2D85200D70201 /* Present MeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Present MeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7141B35F2AD2D85200D70201 /* Present_MeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Present_MeUITests.swift; sourceTree = "<group>"; };
 		7141B3612AD2D85200D70201 /* Present_MeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Present_MeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EC80B7122AD2F9D200BC6656 /* Nouf.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nouf.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				7141B3442AD2D85100D70201 /* Present_MeApp.swift */,
 				7141B3462AD2D85100D70201 /* ContentView.swift */,
 				5CBEED012AD2F750002AA39D /* yarasapp.swift */,
+				EC80B7122AD2F9D200BC6656 /* Nouf.swift */,
 				7141B3482AD2D85200D70201 /* Assets.xcassets */,
 				7141B34A2AD2D85200D70201 /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7141B3472AD2D85100D70201 /* ContentView.swift in Sources */,
+				EC80B7132AD2F9D200BC6656 /* Nouf.swift in Sources */,
 				5CBEED032AD2F754002AA39D /* yarasapp.swift in Sources */,
 				7141B3452AD2D85100D70201 /* Present_MeApp.swift in Sources */,
 			);
